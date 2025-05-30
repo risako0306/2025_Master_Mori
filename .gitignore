@@ -1,0 +1,13 @@
+*/data_*
+/data/*
+/data_2/*
+#*.npy
+#*.csv
+*.png
+.ipynb_checkpoints
+__pycache__
+code/report/
+data
+processed
+code/exploratory/Trash/
+rmori.code-workspace
